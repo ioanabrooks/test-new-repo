@@ -313,7 +313,7 @@ export default function StandupPicker() {
               <div>
                 <div className="flex items-center gap-2 text-sm font-medium text-fuchsia-200">
                   <Sparkles className="h-4 w-4" />
-                  {isPicking ? prompt : "Ready for launch"}
+                  {isPicking ? prompt : "Ready for launch Rev2"}
                 </div>
                 <h2 className="mt-2 text-2xl font-bold text-white sm:text-4xl">
                   Who goes first?
